@@ -1,0 +1,52 @@
+{
+	"name": "starter-kit",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev",
+		"lint": "next lint",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@ant-design/cssinjs": "^1.18.0",
+		"@irys/sdk": "^0.1.1",
+		"@t3-oss/env-nextjs": "^0.6.1",
+		"@thirdweb-dev/chains": "^0.1.60",
+		"@thirdweb-dev/react": "^3.16.5",
+		"@thirdweb-dev/sdk": "^3.10.67",
+		"antd": "^5.11.5",
+		"clsx": "^2.0.0",
+		"ethers": "^5.7.2",
+		"next": "^13.5.6",
+		"next-seo": "^6.4.0",
+		"next-themes": "^0.2.1",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"react-hot-toast": "^2.4.1",
+		"react-icons": "^4.12.0",
+		"usehooks-ts": "^2.9.1",
+		"zod": "^3.22.4",
+		"zustand": "^4.4.7"
+	},
+	"devDependencies": {
+		"@types/eslint": "^8.44.8",
+		"@types/node": "^18.19.2",
+		"@types/react": "^18.2.41",
+		"@types/react-dom": "^18.2.17",
+		"@typescript-eslint/eslint-plugin": "^6.13.1",
+		"@typescript-eslint/parser": "^6.13.1",
+		"autoprefixer": "^10.4.16",
+		"eslint": "^8.55.0",
+		"eslint-config-next": "^13.5.6",
+		"postcss": "^8.4.32",
+		"prettier": "^3.1.0",
+		"prettier-plugin-tailwindcss": "^0.5.7",
+		"tailwindcss": "^3.3.5",
+		"typescript": "^5.3.2"
+	},
+	"ct3aMetadata": {
+		"initVersion": "7.20.2"
+	},
+	"packageManager": "pnpm@8.8.0"
+}
